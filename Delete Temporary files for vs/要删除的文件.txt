@@ -1,8 +1,0 @@
-.sdf
-.ipch
-.pdb
-.idb
-.pch
-.obj
-ilk
-res
